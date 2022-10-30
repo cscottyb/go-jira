@@ -17,11 +17,11 @@ Thumbs.db
 .idea
 .vscode
 ./icon/png-to-icns
-.icon/png-to-icns
+.icon/png-to-icns/
+png-to-icns/
 
 # Project Related Files
 
 
 
 .GoJira-darwin-arm64
-./icon/png-to-icns
