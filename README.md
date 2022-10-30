@@ -35,15 +35,16 @@ nativefier --name 'GoJira' 'https://#######.atlassian.net/jira/your-work' --inje
 - You can use any `.icns` file that is 1024x1024 in the icon folder or your own. 
 	- GoJira Variants: Black, Dark, Light, and White
 
-## Do you just want the the CSS instead for your browser's CSS injector plugin?
+## Do you just want the CSS instead for your browser's CSS injector plugin?
 Use the `style-injector.css` file. 
 
-I used the `Cascade` Extension for Safari and `Stylus` Extension/Plugin for Chromium Browsers and Firefox. 
+I used the [Cascade](https://cascadea.app) Extension for Safari and `Stylus` Extension/Add-on for [Chromium Browsers](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/). 
 
 
 ## Disclaimer
 I am not affiliated with Jira; please support the official method of using Jira. This software is provide to you as is and I'm not liable for damages stated in the MIT license. Licenses for Nativefier and Chromium are located in the `licenses` folder. This application is to is just a Electron wrapper for a browser window. 
 
 
-### Bugs
-- Sometimes the Nativefier crash after a long session. Save your work. 
+### Quirks
+- Sometimes the Nativefier crash after a long session. Save your work often. Send your crash reports upstream to Nativefier.
+- No back button. 
