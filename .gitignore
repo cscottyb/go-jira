@@ -16,7 +16,7 @@ Thumbs.db
 *.sublime-workspace
 .idea
 .vscode
-./icon/png-to-icns
+./icon/png-to-icns/
 .icon/png-to-icns/
 png-to-icns/
 
