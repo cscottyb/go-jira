@@ -16,11 +16,12 @@ Thumbs.db
 *.sublime-workspace
 .idea
 .vscode
+./icon/png-to-icns
+.icon/png-to-icns
 
 # Project Related Files
-*.icns
-*.png
+
 
 
 .GoJira-darwin-arm64
-.icon/png-to-icns
+./icon/png-to-icns
