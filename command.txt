@@ -1,0 +1,3 @@
+Commands
+
+nativefier --name 'GoJira' 'https://#######.atlassian.net/jira/your-work' --inject style.css --title-bar-style 'hiddenInset' --app-version 0.0.1 -i ./icon/gojira-icon-dark.icns
