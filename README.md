@@ -1,6 +1,6 @@
 # GoJira
 
-![alt text](https://github.com/cscottyb/gojira/raw/master/img/roadmap.png "screenshot of roadmap")
+![alt text](https://github.com/cscottyb/go-jira/blob/main/img/roadmap.png "screenshot of roadmap")
 
 Jira MacOS App with Dark Mode 
 
